@@ -1,1 +1,1 @@
-# Calculator-Using-JAVASCRIPT
+Digital Clock using HTML,CSS,JS
